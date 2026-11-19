@@ -1,0 +1,4 @@
+bin/
+obj/
+points.json
+attempts.jsonl
